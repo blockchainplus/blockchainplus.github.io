@@ -20,5 +20,14 @@
       <description>十二维</description>
     </item>
     
+    <item>
+      <title>Bitcoin</title>
+      <link>http://zixuntouzi.com/posts/bitcoin/</link>
+      <pubDate>Sun, 13 May 2018 11:51:42 +0800</pubDate>
+      
+      <guid>http://zixuntouzi.com/posts/bitcoin/</guid>
+      <description>Hello, bitcoin!</description>
+    </item>
+    
   </channel>
 </rss>
