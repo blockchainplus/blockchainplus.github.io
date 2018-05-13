@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zixuntouzi.com</title>
-    <link>http://zixuntouzi.com/</link>
+    <link>https://blockchainplus.github.io/</link>
     <description>Recent content on zixuntouzi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 13 May 2018 11:51:42 +0800</lastBuildDate>
     
-	<atom:link href="http://zixuntouzi.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blockchainplus.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bitcoin</title>
-      <link>http://zixuntouzi.com/posts/bitcoin/</link>
+      <link>https://blockchainplus.github.io/posts/bitcoin/</link>
       <pubDate>Sun, 13 May 2018 11:51:42 +0800</pubDate>
       
-      <guid>http://zixuntouzi.com/posts/bitcoin/</guid>
+      <guid>https://blockchainplus.github.io/posts/bitcoin/</guid>
       <description>您好，比特币！ Hello, bitcoin!</description>
     </item>
     
