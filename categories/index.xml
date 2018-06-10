@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on zixuntouzi.com</title>
-    <link>http://zixuntouzi.com/categories/</link>
-    <description>Recent content in Categories on zixuntouzi.com</description>
+    <title>Categories on blockchainplus</title>
+    <link>http://blockchainplus.github.io/categories/</link>
+    <description>Recent content in Categories on blockchainplus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="http://zixuntouzi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blockchainplus.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

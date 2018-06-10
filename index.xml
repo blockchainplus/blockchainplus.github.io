@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zixuntouzi.com</title>
-    <link>http://zixuntouzi.com/</link>
-    <description>Recent content on zixuntouzi.com</description>
+    <title>blockchainplus</title>
+    <link>http://blockchainplus.github.io/</link>
+    <description>Recent content on blockchainplus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 06 Jun 2018 06:59:57 +0800</lastBuildDate>
     
-	<atom:link href="http://zixuntouzi.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blockchainplus.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cryptokitties</title>
-      <link>http://zixuntouzi.com/posts/cryptokitties/</link>
+      <link>http://blockchainplus.github.io/posts/cryptokitties/</link>
       <pubDate>Wed, 06 Jun 2018 06:59:57 +0800</pubDate>
       
-      <guid>http://zixuntouzi.com/posts/cryptokitties/</guid>
+      <guid>http://blockchainplus.github.io/posts/cryptokitties/</guid>
       <description></description>
     </item>
     
     <item>
       <title>十二维 思维的升维和降维</title>
-      <link>http://zixuntouzi.com/posts/12v/</link>
+      <link>http://blockchainplus.github.io/posts/12v/</link>
       <pubDate>Sun, 13 May 2018 18:48:37 +0800</pubDate>
       
-      <guid>http://zixuntouzi.com/posts/12v/</guid>
+      <guid>http://blockchainplus.github.io/posts/12v/</guid>
       <description>维度是我们认识事物的坐标系。我们学习几何学时，从一维坐标系开始，学了点和线段，建立了长度的概念。然后我们学习了平面几何，了解了正方形、多边形</description>
     </item>
     
     <item>
       <title>Bitcoin</title>
-      <link>http://zixuntouzi.com/posts/bitcoin/</link>
+      <link>http://blockchainplus.github.io/posts/bitcoin/</link>
       <pubDate>Sun, 13 May 2018 11:51:42 +0800</pubDate>
       
-      <guid>http://zixuntouzi.com/posts/bitcoin/</guid>
+      <guid>http://blockchainplus.github.io/posts/bitcoin/</guid>
       <description>您好，比特币！ Hello, bitcoin!</description>
     </item>
     
